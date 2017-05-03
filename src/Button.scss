@@ -1,0 +1,10 @@
+$btnBG: orange;
+$text: #fffaf0;
+button {
+  background-color: $btnBG;
+  color: $text;
+  border-radius: 10px;
+  outline: none;
+  font-size: 2em;
+  padding: 10px;
+}
